@@ -1,0 +1,15 @@
+~cyclomatic complexity 
+~function point analysis 
+~measuring code
+~cocomo model 
+~prepare a network diagram using pert/cpm principles
+~gannt chart 
+~cost metrics
+
+
+
+
+
+So please make sure you know this topic in the exam 
+its one of the key questions  revise cpm conventions 
+and the rules for creating a network diagram.
